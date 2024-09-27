@@ -33,8 +33,8 @@ To run the app locally, follow these steps:
     ```
 
 4. **Download the Pre-trained Models**:
-    - Download the pre-trained machine learning models (pickle files) from the link below and save them in the `models/` folder:
-      - [Download Pickle Files]([your-download-link-here](https://drive.google.com/drive/folders/1Q4jxmyvuJ4bUNJbbK3j3MNX0V2eLQDGx?usp=sharing))
+    - Download the pre-trained machine learning models (pickle files) from the link below and save them in the folder:
+      - [Download Pickle Files]([https://drive.google.com/drive/folders/1Q4jxmyvuJ4bUNJbbK3j3MNX0V2eLQDGx?usp=sharing])
 
 5. **Run the Flask app**:
     ```bash
